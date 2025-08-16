@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anyelimoralesap@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anyeli.morales@usil.pe)
 
-## 💡About me
+## 💡About Me
 - 🎓 **Software Engineering student** with research and project management experience  
 - 🤖 Interested in **Machine Learning, Deep Learning and Computer Vision**   
 - 🌍 Active member and project leader in **IEEE Computer Society** and **Women in Engineering initiatives**.  
