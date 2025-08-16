@@ -22,9 +22,6 @@
 <div align="center">
 <a href="https://github.com/anyelimorales/icu-mortality-prediction" target="_blank"><img src="icu.png" width="400" alt="ICU Mortality Prediction"></a>
 <p>
-<a href="https://github.com/anyelimorales/icu-mortality-prediction" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
 </p>
 </div>                                                                                                                                  
 </table>                                                                                 
