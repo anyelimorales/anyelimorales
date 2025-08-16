@@ -8,28 +8,12 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anyeli.morales@usil.pe)
 
 ## 💡About me
-
 - 🎓 **Software Engineering student** with research and project management experience  
 - 🤖 Interested in **Machine Learning, Deep Learning and Computer Vision**   
 - 🌍 Active member and project leader in **IEEE Computer Society** and **Women in Engineering initiatives**.  
 - 🔎 Open to collaborate on **AI research projects and innovative applications** in healthcare, data science, and human-centered AI 
 
-## 🧪 Projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">ICU Mortality Prediction</h3>
-<div align="center">
-<a href="https://github.com/anyelimorales/icu-mortality-prediction" target="_blank"><img src="icu.png" width="400" alt="ICU Mortality Prediction"></a>
-<p>
-</p>
-</div>                                                                                                                                  
-</table>                                                                                 
-</div>
-<br>
-
 ## 💻 Tech Stack:
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -47,8 +31,22 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-## ⚙️ GitHub Analytics
+## 🧪 Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ICU Mortality Prediction</h3>
+      <div align="center">
+        <a href="https://github.com/anyelimorales/icu-mortality-prediction" target="_blank">
+          <img src="icu.png" width="400" alt="ICU Mortality Prediction">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
 
+## ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anyelimorales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
