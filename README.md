@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Anyeli Morales👋</h1>
 </div>
-<img src="imagen.png">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyelimorales/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anyelimoralesap@gmail.com)
